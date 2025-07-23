@@ -1,2 +1,2 @@
 # practice
-aurthor=Dipendra bikram shah
+aurthor - Dipendra bikram shah
